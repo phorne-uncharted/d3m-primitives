@@ -32,7 +32,7 @@ setup(
     ],
     extras_require={
         'cpu': ['tensorflow==2.2.0'],
-        'gpu': ['tensorflow-gpu==2.2.0'],
+        'gpu': ['tensorflow-gpu==2.3.1'],
     },
     entry_points={
         "d3m.primitives": [
